@@ -70,6 +70,7 @@ body{
     margin: 0 auto;
     gap: 1.8rem;
     grid-template-columns: 14rem auto 23rem;
+    margin-right: 5rem;
 }
 
 a{
